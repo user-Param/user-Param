@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/2.png" width="100%">
+  <img src="./assets/2.jpeg" width="100%">
 </p>
