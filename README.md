@@ -1,1 +1,3 @@
-[→ View Resume](./assets/1.pdf)
+### Resume
+
+[**Download / View my Resume →**](./assets/Param_Resume.pdf)
